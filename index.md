@@ -1,3 +1,3 @@
 ## Description
 
-<embed src="https://github.com/tej-prash/yoga-pose-classification-system/blob/main/pdf/Description.pdf" type="application/pdf"/>
+<embed src="https://drive.google.com/file/d/1yTLUqZegfk690xEwd9lVZZbYxlfe1Bmk/view?usp=sharing" type="application/pdf" width=""/>
